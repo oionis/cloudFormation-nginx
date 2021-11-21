@@ -1,0 +1,1 @@
+Since there are not many free operating systems in the AWS. I chose Ubuntu.
